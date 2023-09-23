@@ -1,0 +1,66 @@
+!DOCTYPE html>
+<head>
+<title> 
+    Registration form
+</title>
+</head>
+<style>
+    h1{text-align: center;}
+    h2{text-align: center;}
+    table {
+        font-family: arual,sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        columns: 4
+    }
+    td, th{
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-colour: white;
+    }
+</style>
+<body>
+    <center><img src="c:\Users\admin\Pictures\Saved Pictures\images.jpg" alt="icon" class="imgc" width=""900"</center>
+    <h1>Registration Form</h1>
+    <h2>Academic year 2023-2024</h2>
+    <h3>Enrollment form for existing ll B.tech l sem IT students</h3>
+    <table border="1">
+        <tr>
+            <th>Name:<td><input type="text"/></td>
+            <th>RegistrationNo:<td><input type="text"</td></th><br> 
+        </tr>
+        <tr>
+            <th>Fathername:<td><input type="text"</td></th>
+            <th>Occupation:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>Address:<td><input type="text"</td></th>
+            <th>Pin:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>parentNo:<td><input type="text"</td></th>
+            <th>RegisterNo:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>No of credits obtained:<td><input type="text"</td></th>
+            <th>No of subjects failed:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>Aadhaar:<td><input type="text"</td></th>
+            <th>D.O.T:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>BloodGroup:<td><input type="text"</td></th>
+            <th>Mobile:<td><input type="text" </td></th><br>
+        </tr>
+        <tr>
+            <th>JvdAppicable:<td><input type="text"</td></th>
+            <th>Hostel:<td><input type="text"</td></th><br>
+        </tr>
+        <tr>
+            <th>Email:<td><input type="text"</td></th>
+            <th>no of subjects failed:<td><input type="text"</td></th><br>
+        </tr>
+</body>
